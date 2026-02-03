@@ -33,13 +33,6 @@ Tenho experiência consolidada em ambientes colaborativos e rigorosos em qualida
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-wessel&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-wessel&layout=compact)
-
----
-
 ## 📫 Contato
 
 - **LinkedIn:** https://www.linkedin.com/in/joao-wessel/
