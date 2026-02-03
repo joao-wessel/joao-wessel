@@ -1,50 +1,52 @@
-# João Wessel
+# 👋 João Wessel
 
-Desenvolvedor de Software | Backend Java | APIs REST | Arquitetura Escalável
+Desenvolvedor de Software | Backend Java | APIs REST | Aplicações Corporativas
 
----
-
-## 💼 Sobre mim
-
-Sou desenvolvedor de software com foco em desenvolvimento backend utilizando **Java e Spring Boot**. Tenho sólida experiência em construção de APIs REST, integração com bancos de dados relacionais e entrega contínua.  
-
-Comprometido com boas práticas de engenharia, arquitetura limpa, código testável e soluções robustas para desafios reais de negócios.
+Sou profissional dedicado ao desenvolvimento de software com forte enfoque em **Java e ecossistema Spring** para aplicações corporativas. Experiência prática com construção de APIs robustas, integração de sistemas, boas práticas orientadas a qualidade de código e arquitetura escalável.
 
 ---
 
-## 🧰 Stack Tecnológica
+## 🧠 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,docker,kubernetes,git,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,thymeleaf,mysql,postgresql,docker,git,linux)](https://skillicons.dev)
+
+Principais stacks e ferramentas que uso no dia a dia:
+- Java
+- Spring Boot, Spring MVC, Spring Data
+- Thymeleaf
+- Bancos de dados SQL (MySQL, PostgreSQL)
+- Containers (Docker)
+- Controle de versão (Git)
+- Ambientes Unix / Linux
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📌 Sobre mim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=default)
+Desenvolvo soluções corporativas completas, com foco em:
+- **APIs RESTful**
+- **Estrutura em camadas & domínio claro**
+- **Boas práticas de Clean Code**
+- Integração contínua, testes e automação
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact)
+Tenho experiência consolidada em ambientes colaborativos e rigorosos em qualidade técnica, com compromisso em **entregar software confiável e sustentável**.
 
 ---
 
-## 📌 Destaques Profissionais
+## 📊 Estatísticas
 
-- Desenvolvimento de APIs RESTful com **Spring Boot**  
-- Integração com bancos de dados SQL  
-- Automatização de processos com **Docker** e **DevOps pipelines**  
-- Adoção de padrões de engenharia (SOLID, DDD, TDD)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-wessel&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-wessel&layout=compact)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/joao-wessel/  
-- Email: seu.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/joao-wessel/
+- **Email:** joao.wessel@outlook.com
 
 ---
 
-## 📂 Projetos relevantes
+## 🏆 Objetivo profissional
 
-```bash
-# Exemplo de projeto backend
-springboot-microservice
-backend-java-rest-api
+Aprimorar competências técnicas em projetos desafiadores que valorizem **arquitetura limpa**, escalabilidade e evolução contínua de software.
