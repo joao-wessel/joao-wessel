@@ -8,7 +8,7 @@ Sou profissional dedicado ao desenvolvimento de software com forte enfoque em **
 
 ## 🧠 Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,thymeleaf,mysql,postgresql,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,mysql,postgresql,docker,git,linux)](https://skillicons.dev)
 
 Principais stacks e ferramentas que uso no dia a dia:
 - Java
